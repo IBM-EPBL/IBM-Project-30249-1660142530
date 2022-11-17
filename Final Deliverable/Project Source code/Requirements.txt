@@ -1,0 +1,7 @@
+install flask
+instal ibm_db
+install sendgrid
+install job API_python
+install requests
+install docker CLI
+
